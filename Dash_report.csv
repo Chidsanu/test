@@ -1,0 +1,4 @@
+Classification_Report,Yes,No
+precesion,22,77
+recall,10,89
+f1-score,14,83
